@@ -13,7 +13,7 @@
 + [iTterm2](http://www.iterm2.com/) 增强版的终端应用
   + [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
   + [oh-my-zsh](http://ohmyz.sh/) 
-+ [typora](https://www.typora.io/) 所见即所得的 Markdown 编辑器
++ [MacDown](https://macdown.uranusjr.com/) Markdown 编辑器
 + [PDF Expert](http://xclient.info/s/pdf-expert-for-mac.html)  极致的 PDF 阅读标注工作体验 
 + [Airmail](http://xclient.info/s/airmail.html)  最强mac邮件客户端
 + [Paste](http://xclient.info/s/paste-for-mac.html) 剪切板增强工具 
@@ -55,7 +55,7 @@
 
 # 命令行工具
 
-
++ [mac-cli](https://github.com/guarinogabriel/mac-cli/) 一整套 mac 命令行工具
 + [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 + [Awesome CLI Apps](https://github.com/aharris88/awesome-cli-apps)
 + [有哪些命令行的软件堪称神器？](https://www.zhihu.com/question/59227720)
