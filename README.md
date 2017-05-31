@@ -61,6 +61,7 @@
 + [有哪些命令行的软件堪称神器？](https://www.zhihu.com/question/59227720)
 + [**thefuck**](https://github.com/nvbn/thefuck) 妈妈再也不用担心我敲错命令了
 + [tldr](https://github.com/tldr-pages/tldr) 简化 Man Page
++ [SSHPASS](https://gist.github.com/arunoda/7790979) 非交互SSH密码验证-sshpass (sshpass用于非交互SSH的密码验证，一般用在sh脚本中，无须再次输入密码。)
 
 
 + [ag](https://github.com/ggreer/the_silver_searcher)：比grep、ack更快的递归搜索文件内容。
