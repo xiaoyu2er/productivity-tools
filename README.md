@@ -51,7 +51,7 @@
 + [Safari Technology Preview](https://developer.apple.com/safari/download/) Safari Web Development Tools
 + [微信web开发者工具](https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html#Chrome_DevTools)
 + [Wondershare AllMyTube](http://xclient.info/s/wondershare-allmytube.html) 在线视频下载转换神器
-
++ [KeyKey](http://xclient.info/s/keykey.html) 键盘打字练习工具
 
 # 命令行工具
 
